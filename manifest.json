@@ -51,7 +51,13 @@
       "url": "https://github.com/Major-Lag98/Cropout/releases/download/v1.0.0/Cropout.zip",
       "sha256": "39c2aa8cc0532855ae575b49a973533524041fd2e9d95280ea170e75d82696a3",
       "size_bytes": 470894528,
-      "executable": "Cropout.exe"
+      "executable": "Cropout.exe",
+      "icon_url": "https://github.com/Major-Lag98/Cropout/releases/download/v1.0.0/Cropout-icon.webp",
+      "screenshots": [
+        "https://github.com/Major-Lag98/Cropout/releases/download/v1.0.0/cropout-005-1920x1080-b52f31e7d9c3.webp",
+        "https://github.com/Major-Lag98/Cropout/releases/download/v1.0.0/cropout-004-1920x1080-77fe7a7043f6.webp",
+        "https://github.com/Major-Lag98/Cropout/releases/download/v1.0.0/cropout-003-1920x1080-f9144ede33f3.webp"
+      ]
     }
   ]
 }
